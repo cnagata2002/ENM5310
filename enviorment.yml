@@ -1,0 +1,6 @@
+name: enm5310
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+prefix: C:\Users\colen\miniforge3\envs\enm5310
